@@ -14,7 +14,7 @@
     "url": "git+https://github.com/recordonce/rrweb-snapshot.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/recordonce"
   },
   "keywords": [
     "rrweb",
