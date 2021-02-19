@@ -1,5 +1,5 @@
 {
-  "name": "@recordonce/rrweb-snapshot",
+  "name": "rrweb-snapshot",
   "version": "1.0.8-2",
   "description": "rrweb's component to take a snapshot of DOM, aka DOM serializer",
   "scripts": {
