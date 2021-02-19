@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rrweb-io/rrweb-snapshot.git"
+    "url": "git+https://github.com/recordonce/rrweb-snapshot.git"
   },
   "keywords": [
     "rrweb",
